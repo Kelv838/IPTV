@@ -15,13 +15,13 @@ http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
 #EXTINF:-1, TVBS Asia 
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
-#EXTINF:-1, 台視新聞 
+#EXTINF:-1, TTV News 
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 
-#EXTINF:-1, 民視高清新聞
+#EXTINF:-1, FTV News
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 
-#EXTINF:-1, 華視高清新聞
+#EXTINF:-1, CTS News
 http://stream.dsichannel.com/hls/cts-news.m3u8
 
 
